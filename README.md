@@ -5,14 +5,11 @@
 
 
 # 安装
-1 手动安装，下载并把文件按以下目录结构存放
-custom_components/
-└── water_meter/
-    ├── __init__.py
-    ├── sensor.py
-    ├── config_flow.py
-    ├── const.py
-    └── manifest.json
+## 手动安装
+1. 下载本集成的代码。
+2. 将 `water_meter` 文件夹复制到 Home Assistant 的 `custom_components` 目录下。
+3. 重启 Home Assistant。
+
 
 # 配置
 
