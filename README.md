@@ -5,7 +5,7 @@
 
 
 # 安装
-1 手动安装，放入 <config directory>/custom_components/ 目录
+1 手动安装，下载并把文件放入 <config directory>/custom_components/ 目录
   
 
 # 配置
