@@ -1,4 +1,4 @@
-指尖水务接入homeassistant
+# 指尖水务余额接入homeassistant
 
 # 简介
 抓取指尖水务app的信息，目前只抓取余额，账单还没研究明白
