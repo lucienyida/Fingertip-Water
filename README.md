@@ -1,0 +1,1 @@
+指尖水务接入homeassistant
