@@ -6,15 +6,13 @@
 
 # 安装
 1 手动安装，下载并把文件按以下目录结构存放
-config/
-└── custom_components/
+custom_components/
 └── water_meter/
     ├── __init__.py
     ├── sensor.py
     ├── config_flow.py
     ├── const.py
     └── manifest.json
-  
 
 # 配置
 
