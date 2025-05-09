@@ -1,7 +1,7 @@
 {
   "domain": "water_meter",
   "name": "指尖水务",
-  "version": "3.0.0",
+  "version": "3.2.1",
   "config_flow": true,
   "documentation": "https://example.com",
   "codeowners": ["@yourusername"],
