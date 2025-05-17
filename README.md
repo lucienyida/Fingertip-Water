@@ -43,6 +43,7 @@ AuthorizationT：
 
 ### 集成展示
   
-![image](https://github.com/user-attachments/assets/40821a64-45bc-4562-8307-e8f7bf1fbaf3)
+![image](https://github.com/user-attachments/assets/58531f2c-56a1-4ba7-be4b-61d494f64263)
+
 
 
